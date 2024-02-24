@@ -138,6 +138,7 @@ const SignIn = () => {
       <Center my="xl">
         <Anchor component={Link} prefetch={false} href="/sign-up" c="dark" fw="bold">
           Don&apos;t have an account?
+          JHHello
         </Anchor>
       </Center>
     </Layout>
